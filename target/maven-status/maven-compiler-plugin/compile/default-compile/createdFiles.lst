@@ -1,0 +1,10 @@
+org\Model\Persona.class
+org\View\ControladorVentanaEdicionPersona.class
+org\openjpa\control\exceptions\EntidadPreexistenteException.class
+org\openjpa\entidades\Persona.class
+org\openjpa\OpenJPA.class
+org\View\ControladorDescripcionPersona.class
+org\openjpa\control\exceptions\NoExisteEntidadException.class
+org\openjpa\control\PersonaControl.class
+org\openjpa\control\exceptions\IlegalesHuerfanasException.class
+org\Util\FechaUtil.class
